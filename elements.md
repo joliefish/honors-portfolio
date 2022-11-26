@@ -82,7 +82,7 @@ nav-menu: true
 
 <div class="row">
 <h4>CSE 163 Final Project</h4>
-<object data="{% /assets/pdfs/22su_cse163.pdf %}" width="1000" height="1000" type='application/pdf'></object>
+<object data="{% link /assets/pdfs/22su_cse163.pdf %}" width="1000" height="1000" type='application/pdf'></object>
 </div>
 
 </div>
