@@ -18,6 +18,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Course Overview</h2>
 <div class="box">
+	<dig class="row">
 	<div class="4u">
 		<h4>Autumn</h4>
 		<ul>
@@ -49,6 +50,7 @@ nav-menu: true
 			<li>Sagittis lorem eleifend.</li>
 			<li>Felis dolore viverra.</li>
 		</ul>
+	</div>
 	</div>
 </div>
 
