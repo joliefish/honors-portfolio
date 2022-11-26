@@ -1,8 +1,8 @@
 # site settings
 title: UW Honors Portfolio
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: My UW Interdisciplinary Honors Portfolio.
+subtitle: by Jolie Zhou
+email: 
+description: Welcome to my UW Interdisciplinary Honors portfolio.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
