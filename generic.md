@@ -2,7 +2,7 @@
 layout: post
 title: Year 2
 description: Fall of 2022 - ...
-image: assets/images/pic11.jpg
+image: assets/images/22au.jpg
 nav-menu: true
 ---
 

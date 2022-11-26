@@ -73,7 +73,7 @@ nav-menu: true
 
 <div class="row">
 <h4>CSE 163 Final Project</h4>
-<p><object data="{% link /assets/pdfs/22su_cse163.pdf %}" width="500" height="500" type='application/pdf'></object>For the final project, my friend and I analyzed 20,000 reviews from Steam, a video game distribution service. We ambitiously decided to investigate four research questions, and ended up having to do a lot of the coding in the last few days before the deadline. It was satisisfying to create our own visualizations and apply the skills we learned throughout the quarter to a new dataset. We found that there is a significant difference in the words people use in reviews recommending compared to not recommending a particular game. The experience reaffirmed my interest in research and I began exploring the UW Undergraduate Research Database for more data science opportunities (to be explored in fall)!</p>
+<p><span class="image left"><object data="{% link /assets/pdfs/22su_cse163.pdf %}" width="500" height="500" type='application/pdf'></object></span>For the final project, my friend and I analyzed 20,000 reviews from Steam, a video game distribution service. We ambitiously decided to investigate four research questions, and ended up having to do a lot of the coding in the last few days before the deadline. It was satisisfying to create our own visualizations and apply the skills we learned throughout the quarter to a new dataset. We found that there is a significant difference in the words people use in reviews recommending compared to not recommending a particular game. The experience reaffirmed my interest in research and I began exploring the UW Undergraduate Research Database for more data science opportunities (to be explored in fall)!</p>
 </div>
 
 </div>
