@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Generic
-description: Freshman Year - Fall of 2021
+title: Year 1
+description: Fall of 2022 - ...
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Welcome to my first year at UW.
+current work in progress!
