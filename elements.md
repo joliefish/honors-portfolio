@@ -30,7 +30,7 @@ nav-menu: true
 	<div class="3u">
 		<h4>Winter</h4>
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
+			<li>PHYS 121</li>
 			<li>Sagittis lorem eleifend.</li>
 			<li>Felis dolore viverra.</li>
 		</ul>
@@ -65,18 +65,25 @@ nav-menu: true
 
 <!-- Artifact -->
 <h3>Artifacts</h3>
+<div class="row">
 <h4>Husky ADAPT Toy Adaptation Workshop</h4>
 <p><span class="image left"><img src="{% link assets/images/21au_husky_adapt.jpg %}" alt="" /></span>This is my annotation about the artifact.</p>
+</div>
 
+<div class="row">
 <h4>PHYS 121 Lecture</h4>
 <p><span class="image left"><img src="{% link assets/images/22wi_phys.jpg %}" alt="" /></span>Winter quarter started out online.</p>
+</div>
 
+<div class="row">
 <h4>Medicinal Herb Scavenger Hunt</h4>
 <p><span class="image left"><img src="{% link assets/images/22sp_clas205.png %}" alt="" /></span>This is my annotation about the artifact.</p>
+</div>
 
+<div class="row">
 <h4>CSE 163 Final Project</h4>
-<object data="../assets/pdfs/22su_cse163.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+<object data="/assets/pdfs/22su_cse163.pdf" width="1000" height="1000" type='application/pdf'></object>
+</div>
 
 </div>
 </section>
