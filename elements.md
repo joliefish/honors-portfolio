@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Course Overview</h2>
 <div class="box">
-	<dig class="row">
+	<div class="row">
 	<div class="4u">
 		<h4>Autumn</h4>
 		<ul>
@@ -61,20 +61,12 @@ nav-menu: true
 <h3>Text</h3>
 <p>Finally, this is a <a href="#">link</a>.</p>
 
-
 <hr />
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
-
 
 <!-- Image -->
 <h3>Image</h3>
-
 <h4>Medicinal Herb Scavenger Hunt</h4>
-<span class="image fit"><img src="{% link assets/images/21sp_clas205.png %}" alt="" /></span>
-<p>Annotation</p>
+<p><span class="image left"><img src="{% link assets/images/21sp_clas205.png %}" alt="" /></span>This is my annotation about the artifact.</p>
 
 </div>
 </section>
