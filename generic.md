@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Year 1
+title: Year 2
 description: Fall of 2022 - ...
 image: assets/images/pic11.jpg
 nav-menu: true
