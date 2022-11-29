@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Year 1
+description: Fall of 2021 - ...
 image: assets/images/21au.jpg
 nav-menu: true
 ---
