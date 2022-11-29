@@ -31,24 +31,25 @@ nav-menu: true
 		<h4>Winter</h4>
 		<ul>
 			<li>PHYS 121</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>EDUC 251</li>
+			<li>ARCH 151</li>
+			<li>MATH 208</li>
 		</ul>
 	</div>
 	<div class="3u">
 		<h4>Spring</h4>
 		<ul>
 			<li>CLAS 205</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>PHYS 122</li>
+			<li>...</li>
 		</ul>
 	</div>
 	<div class="3u">
 		<h4>Summer</h4>
 		<ul>
 			<li>CSE 351</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>CSE 163</li>
+			<li>STAT 311</li>
 		</ul>
 	</div>
 	</div>
