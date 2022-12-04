@@ -69,6 +69,11 @@ nav-menu: true
 
 current work in progress! (see year 1 :))
 
+<div class="row">
+<h4>HONORS 100 Reflection</h4>
+<object data="{% link /assets/pdfs/22au_honors100_reflection.pdf %}" width="500" height="500" type='application/pdf'></object>
+</div>
+
 </div>
 </section>
 
